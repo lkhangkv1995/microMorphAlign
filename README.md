@@ -36,7 +36,7 @@ H&E, autofluorescence and DAPI.
 ## Install
 
 ```bash
-git clone [microMorphAlign](https://github.com/lkhangkv1995/microMorphAlign)
+git clone https://github.com/lkhangkv1995/microMorphAlign
 cd microMorphAlign
 pip install -e ".[notebook,test]"
 jupyter lab notebooks/demo.ipynb
