@@ -2,6 +2,8 @@
 
 **Global registration gets you close. Local tissue structure gets you closer.**
 
+![MicroMorphAlign: Bidirectional point-level registration and refinement](notebooks/demo.png)
+
 MicroMorphAlign is a training-free, bidirectional **point correspondence refinement**
 layer for paired microscopy images. It builds on the original MorphAlign
 affine registration workflow (the required MorphAlign v2
